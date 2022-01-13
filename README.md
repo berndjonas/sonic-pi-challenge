@@ -1,23 +1,14 @@
-<div align="center">
-  <img src="sonic-pi-challenge.gif">
-  <p>The Sonic Pi Challenge is over.</p>
-  <p>Thank you to everyone who took part.</p>
-  <p>You can view Sam's final live-coded DJ set <a href="https://www.youtube.com/watch?v=oa2dHlQ-kfs">here</a> incorporating some of your <a href="snippets">snippets :metal:</p>
-</div>
-
 #
 
-# GitHub Universe2020 Sonic Pi Challenge
+# Tradehift Celebrating 2021
+
+Follow Sam's awesome instructions below, contribute your snippet, and Sam will be able to incorporate it in the live performance coming August 25th 2022.
+<a href="https://www.youtube.com/watch?v=oa2dHlQ-kfs">See Sam's earlier live-coded DJ set at Github's Universe 2020 conference, that incorporated contributed snippets - just like you can do here!</a>
 
 __OK, this is going to be fun. It calls for some awesome ascii-art!__
 
 
 ```
-# ██    ██ ███    ██ ██ ██    ██ ███████ ██████  ███████ ███████ ██████   ██████  ██████   ██████ 
-# ██    ██ ████   ██ ██ ██    ██ ██      ██   ██ ██      ██           ██ ██  ████      ██ ██  ████ 
-# ██    ██ ██ ██  ██ ██ ██    ██ █████   ██████  ███████ █████    █████  ██ ██ ██  █████  ██ ██ ██ 
-# ██    ██ ██  ██ ██ ██  ██  ██  ██      ██   ██      ██ ██      ██      ████  ██ ██      ████  ██ 
-#  ██████  ██   ████ ██   ████   ███████ ██   ██ ███████ ███████ ███████  ██████  ███████  ██████  
 #                                                                                                  
 #                                                       ╘
 #                                                ─       ╛▒╛
@@ -38,12 +29,6 @@ __OK, this is going to be fun. It calls for some awesome ascii-art!__
 #                           ___/ / /_/ / / / / / /__   / ____/ /
 #                          /____/\____/_/ /_/_/\___/  /_/   /_/
 #                        
-#                         ___             _ _         
-#                        / __\ |__   __ _| | | ___ _ __   __ _  ___ 
-#                       / /  | '_ \ / _` | | |/ _ \ '_ \ / _` |/ _ \
-#                      / /___| | | | (_| | | |  __/ | | | (_| |  __/
-#                      \____/|_| |_|\__,_|_|_|\___|_| |_|\__, |\___|
-#                                                        |___/      
 ```
 
 ## Background
